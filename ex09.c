@@ -45,7 +45,7 @@
 		int g;
 		for(k = 2; k <= 100; k++){
 			for(g = 2; g < k; g++){
-				if(k % g ==0)
+				if(k % g ==0);
 			}
 		}	
 			 
